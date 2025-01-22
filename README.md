@@ -1,6 +1,6 @@
 # Bank Logos Repository
 
-This repository contains logos of various banks in a standard format.
+A comprehensive collection of bank logos in a standard format with a uniform width of 500px, ensuring consistency and ease of use across various projects.
 
 ## Example Logo
 
