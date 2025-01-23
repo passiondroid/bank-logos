@@ -1,6 +1,6 @@
-# Bank Logos Repository
+# Bank & NBFC Logos Repository
 
-A comprehensive collection of bank logos in a standard format with a uniform width of 500px, ensuring consistency and ease of use across various projects.
+A comprehensive collection of bank & nbfc logos in a standard format with a uniform width of 500px, ensuring consistency and ease of use across various projects.
 
 ## Example Logo
 
